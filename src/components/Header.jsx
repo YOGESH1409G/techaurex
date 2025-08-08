@@ -12,7 +12,7 @@ const Header = ({ currentPage, setCurrentPage, mobileMenuOpen, setMobileMenuOpen
               className="text-2xl font-bold text-purple-600 cursor-pointer" 
               onClick={() => setCurrentPage('home')}
             >
-              ✨ blog
+              TECHAUREX
             </div>
           </div>
           
