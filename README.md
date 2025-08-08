@@ -1,12 +1,19 @@
-# React + Vite
+🧠 Techaurax - Gadget Reviews & Affiliate Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Techaurax.in is a modern and responsive gadget review website built using React + Vite + Tailwind CSS. It helps users discover, compare, and make informed decisions on gadgets like smartphones, smartwatches, speakers, and more — complete with affiliate links for easy purchasing.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📰 Homepage with latest reviews
+📱 Individual product pages with full descriptions
+🔗 Affiliate links to Amazon, Flipkart, and more
+⚡️ Built with Vite for blazing-fast development
+🎨 Styled using Tailwind CSS
+📱 Fully responsive design for all screen sizes
+🌐 Router setup for clean page navigation
+🛠️ Tech Stack
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Frontend: React (with Vite)
+Styling: Tailwind CSS
+Routing: React Router DOM
+Deployment: Vercel / GitHub Pages (planned)
